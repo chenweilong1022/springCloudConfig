@@ -2,3 +2,4 @@
 server:
   port: 9656
 foo: foo-version.1
+name: chenweilong
